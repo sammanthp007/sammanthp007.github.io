@@ -1,9 +1,7 @@
 Links to all my projects created during undergrad years:
 
-Have a github wiki from which I can go to their repositories and from each repository, I could go to these sites
-
 ### Freshman year:
-- At&t hackathon in week two of freshman year. Learnt to make a web form and send a text message using Datadipity api. The dude from Datadipity went nuts seeing how hopeless we were. [The final submitted product](https://github.com/sammanthp007/atthack-10-2014-during)
+- [The final submitted product](https://github.com/sammanthp007/atthack-10-2014-during) - At&t hackathon in week two of freshman year. Learnt to make a web form and send a text message using Datadipity api. The dude from Datadipity went nuts seeing how hopeless we were. (I had never heard of Javascript before this)
 - [Caesar Cipher](http://r-o-t-c.appspot.com)
 - [Get recommendation for healthiness scored food (from restaurant's menu) around you](https://frozen-earth-2438.herokuapp.com/)
 

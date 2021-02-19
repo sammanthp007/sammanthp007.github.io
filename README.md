@@ -1,4 +1,6 @@
-Links to all my projects created during undergrad years:
+Portfolio (during college): https://sammanthp007.github.io
+
+Links to all my projects created during undergrad years (or **My Actual Portfolio**):
 
 ### Freshman Year (2014/15):
 - [The final submitted product](https://github.com/sammanthp007/atthack-10-2014-during) - At&t hackathon in week two of freshman year. Learnt to make a web form and send a text message using Datadipity api. The dude from Datadipity went nuts seeing how hopeless we were. (I had never heard of Javascript before this)

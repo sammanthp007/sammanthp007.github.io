@@ -1,11 +1,11 @@
 Links to all my projects created during undergrad years:
 
-### Freshman year:
+### Freshman Year (2014/15):
 - [The final submitted product](https://github.com/sammanthp007/atthack-10-2014-during) - At&t hackathon in week two of freshman year. Learnt to make a web form and send a text message using Datadipity api. The dude from Datadipity went nuts seeing how hopeless we were. (I had never heard of Javascript before this)
 - [Caesar Cipher](http://r-o-t-c.appspot.com)
 - [Get recommendation for healthiness scored food (from restaurant's menu) around you](https://frozen-earth-2438.herokuapp.com/)
 
-### Sophomore:
+### Sophomore Year (2015/16):
 - [MIPS hw 1](https://github.com/sammanthp007/MIPS_Projects)
 - [Heapsort in MIPS](https://github.com/sammanthp007/HeapSort-in-MIPS-32)
 - [Diffie-Hellman, RSA public-private, and mod arth](https://github.com/sammanthp007/Cryptography)
@@ -19,7 +19,7 @@ Links to all my projects created during undergrad years:
 - [FreeFoodFeed](https://github.com/sammanthp007/atthack-10-2014) - Wrote the idea for the very first project in Freshman year (the AT&T hackathon one) in Django and was usable. I got into a couple of free food events using the app in my Sophomore year.
 - [Kurier]()
 
-### Junior:
+### Junior Year (2016/17):
 - [MetroDC: Finds the nearest metro in DC](https://github.com/sammanthp007/huhack-10-2015) - A Pebble App. Was available in the Pebble app store until the pebble app store died.
 - [NerdLuv](https://nerdluv.herokuapp.com/index.php), where meek geeks meet; [Code for the project is here](https://github.com/sammanthp007/nerdluv-with-mysql)
 - [All my notes from Junior years is here](https://github.com/sammanthp007/Linux-Kernel-Development) - Also checkout the wiki
@@ -40,7 +40,7 @@ Links to all my projects created during undergrad years:
 - [Configuring Gem5](https://github.com/sammanthp007/gem5-tutorial)
 
 
-### Senior:
+### Senior Year (2017/18):
 - [ARKit app: Mr. Meesheek - INCOMPLETE](https://github.com/sammanthp007/Mr-Meesheek)
 - [Comp Arch HW](https://github.com/sammanthp007/computer-architecture)
 - [PianoFlashCard](https://apps.apple.com/us/app/piano-flash-card/id1308111141)
@@ -53,5 +53,5 @@ My [vimrc](https://github.com/sammanthp007/vimrc)
 
 The setting and window manager config I used when using ArchLinux and Qtile is [here](https://github.com/sammanthp007/ArchLinux-Setting)
 
-### Startup venture notes
+### Startup venture note:
 - [Building a startup](https://github.com/sammanthp007/Building-a-Startup)

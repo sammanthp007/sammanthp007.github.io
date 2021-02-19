@@ -18,7 +18,7 @@ Links to all my projects created during undergrad years (or **My Actual Portfoli
 - [Tinder, but for matching Business schoold students and comp sci coders](https://github.com/sammanthp007/huhack-2016) - Won the hackathon. Ionic + Pebble app
 - [Navicopter: DroneOS](https://github.com/sammanthp007/Navicopter) - Used TM4C126EXL launchpad as controller
 - [PokemonGoBot - find nearest searched pokemon using twitter](https://github.com/sammanthp007/pokemon-go-bot) - Tried out using Twitter's api for Yahoo's hackathon. Partnerd with Adi Raju
-- [FreeFoodFeed](https://github.com/sammanthp007/atthack-10-2014) - Wrote the idea for the very first project in Freshman year (the AT&T hackathon one) in Django and was usable. I got into a couple of free food events using the app in my Sophomore year.
+- [FreeFoodFeed](https://github.com/sammanthp007/atthack-10-2014) <Private> - Wrote the idea for the very first project in Freshman year (the AT&T hackathon one) in Django and was usable. I got into a couple of free food events using the app in my Sophomore year.
 
 ### Junior Year (2016/17):
 - [MetroDC: Finds the nearest metro in DC](https://github.com/sammanthp007/huhack-10-2015) - A Pebble App. Was available in the Pebble app store until the pebble app store died.
@@ -37,7 +37,7 @@ Links to all my projects created during undergrad years (or **My Actual Portfoli
 - [Docker tutorial](https://github.com/sammanthp007/docker-tutorial)
 - [Socket Programming HW](https://github.com/sammanthp007/socket-programming-modified-echo)
 - [Simple UDP Server/Client implementation](https://github.com/sammanthp007/UDP-Socket-in-C)
-- [Genome Classification for Different Types of Cancer](https://github.com/sammanthp007/Cancel-DNa-classification-genome)
+- [Genome Classification for Different Types of Cancer](https://github.com/sammanthp007/Cancel-DNa-classification-genome) <Private>
 - [Configuring Gem5](https://github.com/sammanthp007/gem5-tutorial)
 
 

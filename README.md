@@ -19,7 +19,6 @@ Links to all my projects created during undergrad years (or **My Actual Portfoli
 - [Navicopter: DroneOS](https://github.com/sammanthp007/Navicopter) - Used TM4C126EXL launchpad as controller
 - [PokemonGoBot - find nearest searched pokemon using twitter](https://github.com/sammanthp007/pokemon-go-bot) - Tried out using Twitter's api for Yahoo's hackathon. Partnerd with Adi Raju
 - [FreeFoodFeed](https://github.com/sammanthp007/atthack-10-2014) - Wrote the idea for the very first project in Freshman year (the AT&T hackathon one) in Django and was usable. I got into a couple of free food events using the app in my Sophomore year.
-- [Kurier]()
 
 ### Junior Year (2016/17):
 - [MetroDC: Finds the nearest metro in DC](https://github.com/sammanthp007/huhack-10-2015) - A Pebble App. Was available in the Pebble app store until the pebble app store died.
